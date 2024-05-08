@@ -12,8 +12,7 @@ export const dialogueData = {
     bed: `This where I decompress and rest. Great ideas comes when I'm lying on my bed. When an idea strikes, I immediately write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
     resume: `This is my desk and on it is my resume. <a href="https://copper-dominica-62.tiiny.site/" target="_blank">Check it out?</a>
     Contact me at lakshya41997@gmail.com if you have any interesting job opportunities!`,
-    projects: `Info about this application : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-    Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
+    projects: `My Chicago adventure trip encapsulates the dynamic spirit of the city, from its towering skyscrapers to its lively street scenes and cultural landmarks.`,
     library: `There are a lot of programming books on my shelves.
     I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
     exit: `If you want to exit Lakshya's portfolio, just close the tab.`,

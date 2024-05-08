@@ -88,8 +88,16 @@
           </div>
         </div>
       </div>
+
+      <div id="gallery">
+      </div>
+
       <canvas id="game"></canvas>
     </div>
+    <script type="module">
+      import initGallery from './src/main.js';
+      initGallery('galleries.json', { speed: 400})
+    </script>
     <script type="module" src="./src/main.js"></script>
   </body>
 </html>

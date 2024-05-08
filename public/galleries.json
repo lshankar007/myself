@@ -1,0 +1,102 @@
+[
+    {
+      "name" : "Chicago",
+      "images" : [
+        {
+            "src": "./images/chicago_1.jpeg",
+            "alt": "chicago img_1"
+          },
+          {
+            "src": "./images/chicago_2.jpeg",
+            "alt": "chicago img_2"
+          },
+          {
+            "src": "./images/chicago_3.jpeg",
+            "alt": "chicago img_3"
+          },
+          {
+            "src": "./images/chicago_4.jpeg",
+            "alt": "chicago img_4"
+          },
+          {
+            "src": "./images/chicago_5.jpeg",
+            "alt": "chicago img_5"
+          },
+          {
+            "src": "./images/chicago_6.jpeg",
+            "alt": "chicago img_6"
+          },
+          {
+            "src": "./images/chicago_7.jpeg",
+            "alt": "chicago img_7"
+          },
+          {
+            "src": "./images/chicago_8.jpeg",
+            "alt": "chicago img_8"
+          },
+          {
+            "src": "./images/chicago_9.jpeg",
+            "alt": "chicago img_9"
+        }
+      ]
+    },
+    {
+      "name" : "San Francisco",
+      "images" : [
+          {
+            "src": "./images/sf_1.jpeg",
+            "alt": "SF img_1"
+          },
+          {
+            "src": "./images/sf_2.jpeg",
+            "alt": "SF img_2"
+          },
+          {
+            "src": "./images/sf_3.jpeg",
+            "alt": "SF img_3"
+          },
+          {
+            "src": "./images/sf_4.jpeg",
+            "alt": "SF img_4"
+          },
+          {
+            "src": "./images/sf_5.jpeg",
+            "alt": "SF img_5"
+          }
+      ]
+    },
+    {
+      "name" : "Graduation",
+      "images" : [
+          {
+            "src": "./images/grad_1.jpeg",
+            "alt": "Graduation img_1"
+          },
+          {
+            "src": "./images/grad_2.jpeg",
+            "alt": "Graduation img_2"
+          },
+          {
+            "src": "./images/grad_3.jpeg",
+            "alt": "Graduation img_3"
+          },
+          {
+            "src": "./images/grad_4.jpeg",
+            "alt": "Graduation img_4"
+          },
+          {
+            "src": "./images/grad_5.jpeg",
+            "alt": "Graduation img_5"
+          }
+      ]
+    },
+    {
+      "name" : "Degree",
+      "images" : [
+          {
+            "src": "./images/uiuc_cs_degree.png",
+            "alt": "UIUC Degree"
+          }
+      ]
+    }
+  ]
