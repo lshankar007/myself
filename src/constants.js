@@ -10,7 +10,7 @@ export const dialogueData = {
      <a href="https://www.netflix.com/title/80097140" target="_blank">Altered Carbon</a>, <a href="https://www.amazon.com/The-Expanse-Season-1/dp/B08B48L4CQ" target="_blank">The Expanse</a>,
     <a href="https://www.netflix.com/title/81024821" target="_blank">3 Body Problem</a> and <a href="https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7" target="_blank">For All Mankind</a>!`,
     bed: `This where I decompress and rest. Great ideas comes when I'm lying on my bed. When an idea strikes, I immediately write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-    resume: `This is my desk and on it is my resume. <a href="https://copper-dominica-62.tiiny.site/" target="_blank">Check it out?</a>
+    resume: `This is my desk and on it is my resume. <a href="https://amethyst-nan-90.tiiny.site/" target="_blank">Check it out?</a>
     Contact me at lakshya41997@gmail.com if you have any interesting job opportunities!`,
     projects: `My Chicago adventure trip encapsulates the dynamic spirit of the city, from its towering skyscrapers to its lively street scenes and cultural landmarks.`,
     library: `There are a lot of programming books on my shelves.
